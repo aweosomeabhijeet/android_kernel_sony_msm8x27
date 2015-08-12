@@ -936,7 +936,7 @@ static int fwu_start_reflash(void)
 exit: */
 
 //Fix touch screen problem for MultiROM by ngxson (Nui)
-	retval = 0;
+	retval=0;
 	return retval;
 }
 
